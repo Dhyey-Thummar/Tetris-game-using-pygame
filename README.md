@@ -5,6 +5,7 @@
 The game was designed using the pygame library of python.
 
 ## Instructions for installation
--main.py is the core source file writtten in python language.
--Other files are various images and music required to run the code.
--All the files must be in the same folder to run the game.
+
+- main.py is the core source file writtten in python language.
+- Other files are various images and music required to run the code.
+- All the files must be in the same folder to run the game.
