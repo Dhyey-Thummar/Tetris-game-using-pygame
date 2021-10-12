@@ -4,6 +4,10 @@
 
 The game was designed using the pygame library of python.
 
+## Screenshot of the game
+
+![Screenshot](sc.png)
+
 ## Instructions for installation
 
 - main.py is the core source file writtten in python language.
