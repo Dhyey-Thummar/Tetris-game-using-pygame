@@ -6,7 +6,7 @@ The game was designed using the pygame library of python.
 
 ## Screenshot of the game
 
-<img src="sc.png" width="100">
+<img src="sc.png" width="500">
 
 ## Instructions for installation
 
